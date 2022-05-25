@@ -32,13 +32,20 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="../C++_programming_tutorial/z4">
-			<Option target="Release" />
-		</Unit>
 		<Unit filename="main.cpp" />
+		<Unit filename="z2.cpp" />
+		<Unit filename="z21.cpp" />
+		<Unit filename="z21_1.cpp" />
+		<Unit filename="z25.cpp" />
+		<Unit filename="z3.cpp" />
+		<Unit filename="z33.cpp" />
 		<Unit filename="z4.cpp">
 			<Option target="Release" />
 		</Unit>
+		<Unit filename="z46.cpp" />
+		<Unit filename="z61.cpp" />
+		<Unit filename="z8.cpp" />
+		<Unit filename="z92.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

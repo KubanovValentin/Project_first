@@ -1,21 +1,31 @@
 # depslib dependency file v1.0
-1653395343 source:d:\users\13\desktop\project_first\main.cpp
+1653477685 source:d:\users\13\desktop\project_first\main.cpp
 	<iostream>
 
 1653393415 source:d:\users\13\desktop\project_first\z4.cpp
 
-1653395409 source:d:\users\13\desktop\project_first\z8.cpp
+1653475138 source:d:\users\13\desktop\project_first\z8.cpp
 	<iostream>
 
-1653404751 source:d:\users\13\desktop\project_first\z21_1.cpp
+1653477700 source:d:\users\13\desktop\project_first\z21_1.cpp
 
-1653408520 source:d:\users\13\desktop\project_first\z21.cpp
+1653474725 source:d:\users\13\desktop\project_first\z21.cpp
 	<iostream>
 
-1653409065 source:d:\users\13\desktop\project_first\z25.cpp
+1653474793 source:d:\users\13\desktop\project_first\z25.cpp
 	<iostream>
 
-1653409801 source:d:\users\13\desktop\project_first\z33.cpp
+1653474931 source:d:\users\13\desktop\project_first\z33.cpp
+	<iostream>
 
-1653415884 source:d:\users\13\desktop\project_first\z61.cpp
+1653477719 source:d:\users\13\desktop\project_first\z61.cpp
+
+1653475178 source:d:\users\13\desktop\project_first\z92.cpp
+	<iostream>
+
+1653474849 source:d:\users\13\desktop\project_first\z3.cpp
+	<iostream>
+
+1653481027 source:d:\users\13\desktop\project_first\z2.cpp
+	<iostream>
 
