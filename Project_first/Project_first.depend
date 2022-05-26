@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1653477685 source:d:\users\13\desktop\project_first\main.cpp
+1653590232 source:d:\users\13\desktop\project_first\main.cpp
 	<iostream>
 
-1653393415 source:d:\users\13\desktop\project_first\z4.cpp
+1653475042 source:d:\users\13\desktop\project_first\z4.cpp
 
 1653475138 source:d:\users\13\desktop\project_first\z8.cpp
 	<iostream>
@@ -26,6 +26,40 @@
 1653474849 source:d:\users\13\desktop\project_first\z3.cpp
 	<iostream>
 
-1653481027 source:d:\users\13\desktop\project_first\z2.cpp
+1653497265 source:d:\users\13\desktop\project_first\z2.cpp
+	<iostream>
+
+1653493984 source:d:\users\13\desktop\project_first\z46.cpp
+	<iostream>
+	<string>
+
+1653563583 source:d:\users\13\desktop\project_first\z108.cpp
+	<iostream>
+	<string>
+
+1653563967 source:d:\users\13\desktop\project_first\z903.cpp
+	<iostream>
+
+1653583802 source:d:\users\13\desktop\project_first\lesson.cpp
+
+1653580814 source:d:\users\13\desktop\project_first\z195.cpp
+	<iostream>
+
+1653584257 source:d:\users\13\desktop\project_first\z1109.cpp
+	<iostream>
+
+1653584598 source:d:\users\13\desktop\project_first\z1100.cpp
+	<iostream>
+
+1653586170 source:d:\users\13\desktop\project_first\z1111.cpp
+	<iostream>
+
+1653586930 source:d:\users\13\desktop\project_first\z1112.cpp
+	<iostream>
+
+1653589214 source:d:\users\13\desktop\project_first\z1038.cpp
+	<iostream>
+
+1653589431 source:d:\users\13\desktop\project_first\z1113.cpp
 	<iostream>
 
