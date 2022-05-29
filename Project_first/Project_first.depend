@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1653666949 source:d:\users\13\desktop\project_first\main.cpp
+1653676486 source:d:\users\13\desktop\project_first\main.cpp
 	<iostream>
 
 1653475042 source:d:\users\13\desktop\project_first\z4.cpp
@@ -88,5 +88,11 @@
 	<iostream>
 
 1653667274 source:d:\users\13\desktop\project_first\z1119.cpp
+	<iostream>
+
+1653674975 source:d:\users\13\desktop\project_first\z52.cpp
+	<iostream>
+
+1653675387 source:d:\users\13\desktop\project_first\z324.cpp
 	<iostream>
 
