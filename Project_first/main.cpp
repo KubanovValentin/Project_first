@@ -1,8 +1,19 @@
 #include <iostream>
+#include <vector>
+
 using namespace std;
-main()
+
+int main()
 {
-int X1,Y1,X2,Y2;
-cin>>X1>>Y1>>X2>>Y2;
-cout<<(X1==X2||Y1==Y2||X1-X2==Y1-Y2||X2-X1==Y2-Y1||-(X1-X2)==Y1-Y2||-(X2-X1)==Y2-Y1?"YES":"NO");
+    int N, X, z = 0;
+    cin >> N;
+    vector <int> arr(N);
+    for (int i = 0; i < N; i++)
+        cin >> arr[i];
+    cin >> X;
+    for (int i = 0; i < N; i++)
+        if (arr[i] == X)
+            z++;
+    cout << z;
+    return 0;
 }
